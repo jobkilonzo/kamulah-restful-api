@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KAMULAH TV</string>
+    <string name="timetable">Timetable</string>
+    <string name="powered_by_text">Powered by Job Technologies</string>
+    <string name="play">Play</string>
+    <string name="global">Contacts</string>
+    <string name="stop">Stop</string>
+    <string name="program_title">Tila Kilomo na Kamullah</string>
+</resources>
